@@ -1,0 +1,52 @@
+.divcolor{
+    visibility: hidden;
+    width: 150px;
+    height: 100px;
+    border: 1px solid w;
+    background-color: #d5dde6;
+    text-align: center;
+    z-index: 90;
+    
+    
+    
+    }
+
+    #colorbox{
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      
+
+    }
+    #colorbox:hover{
+     
+
+    }
+    .colorpanel span{
+
+
+        width: 35px;height: 35px;display: block;margin-left: 20px;border-radius: 50%;float: left;
+        margin: 5px;
+
+    }
+
+
+
+#colorred{
+background-color: lightcoral;
+
+
+}
+#colorblue{
+    background-color: cornflowerblue;
+}
+#coloryellow{
+    background-color:yellow;      
+}
+#colorpink{
+    background-color:white;
+}
+#colorpurple{
+    background-color: violet;
+}
+#colorgreen{
+    background-color: chartreuse;
+}
